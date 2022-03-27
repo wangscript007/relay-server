@@ -1,0 +1,9 @@
+log_level: info
+server:
+  tcp: true
+  udp: true
+  udp_port: 3478
+  tcp_port: 3478
+  publicip: 127.0.0.1
+  realm: trtc.com
+  password: pass01
